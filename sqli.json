@@ -1,4 +1,4 @@
 {
     "flags": "-E",
-    "pattern": "(\\?|&)(id=|select=|report=|role=|update=|query=|user=|name=|sort=|where=|search=|params=|process=|row=|view=|table=|from=|sel=|results=|sleep=|fetch=|order=|keyword=|column=|field=|delete=|string=|number=|filter=)"
+    "pattern": "(\\?|&)(id=|select=|report=|role=|update=|query=|user=|name=|sort=|where=|search=|params=|process=|row=|view=|table=|from=|sel=|results=|sleep=|fetch=|order=|keyword=|column=|field=|delete=|string=|number=|filter=|longitude=|city_id=|item_id=|comment_id=|last_content_id=)"
 }
