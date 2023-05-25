@@ -1,0 +1,4 @@
+{
+    "flags": "-E",
+    "pattern": "(\\?|&)(template=|preview=|id=|view=|activity=|name=|content=|redirect=)"
+}
