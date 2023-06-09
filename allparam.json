@@ -1,4 +1,4 @@
 {
-    "flags": "-E",
+    "flags": "-IE",
     "pattern": "[?].*[&]?"
 }
